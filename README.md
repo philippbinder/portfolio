@@ -8,4 +8,5 @@ Use  `export` as build command
 ```js
 yarn export
 ```
-Small Change
+Changes have been made to:
+- the name 
