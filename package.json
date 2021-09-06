@@ -9,13 +9,15 @@
     "export": "npm run build && next export"
   },
   "dependencies": {
-    "@babel/core": "7.15.4",
-    "@babel/preset-react": "7.14.5",
     "frontmatter-markdown-loader": "3.6.3",
     "next": "11.1.2",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-reveal": "1.2.2",
     "react-typed": "1.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.20",
+    "@types/react-dom": "^17.0.9"
   }
 }
